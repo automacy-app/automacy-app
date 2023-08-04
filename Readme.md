@@ -1,3 +1,1 @@
-# Automacy App
-
-> Organization Repository
+# Organization .Github Repository
