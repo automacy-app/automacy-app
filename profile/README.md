@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Myro Software and Research Development is a Developer Teams who building software in the web!!</h3>
+<h3 align="center">Morse Software and Research is a Developer Teams who building software in the web!!</h3>
 <p align="center">Experts on Laravel, PHP, ReactJs, JavaScript!</p>
 
 <h3 align="center">Languages and Tools We Use:</h3>
