@@ -1,5 +1,3 @@
-<img width="100%" src="https://raw.githubusercontent.com/msar-dev/.github/main/profile/screenshot.png" />
-
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Morse Software and Research is a Developer Teams who building software in the web!!</h3>
 <p align="center">Experts on Laravel, PHP, ReactJs, JavaScript!</p>
