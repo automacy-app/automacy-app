@@ -1,4 +1,4 @@
-<img src="https://fourorbit.com/icon.svg" alt="fourorbit.com" />
+<p align="center"><img width="200px" src="https://fourorbit.com/icon.svg" alt="fourorbit.com" /></p>
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Four Orbit Solutions is a quality foucused development agency!!</h3>
 <p align="center">Experts on Laravel, PHP, ReactJs, JavaScript!</p>
